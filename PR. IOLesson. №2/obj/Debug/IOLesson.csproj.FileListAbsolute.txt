@@ -1,0 +1,7 @@
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\bin\Debug\Interfejsy.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\bin\Debug\Interfejsy.exe
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\bin\Debug\Interfejsy.pdb
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\obj\Debug\IOLesson.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\obj\Debug\IOLesson.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\obj\Debug\Interfejsy.exe
+C:\Users\АдылкановМ.CORP\source\repos\Interfejsy\Interfejsy\obj\Debug\Interfejsy.pdb
